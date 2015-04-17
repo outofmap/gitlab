@@ -1,2 +1,4 @@
 hello
 hello,again
+today is 17/April/15.
+Hi, Songhee & Seong-mi.
